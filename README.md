@@ -84,6 +84,21 @@ A project done in AVR Assembly that uses external interrupts, internal interrupt
 
 ➕ Cables to connect the boards.
 
+## Installation
+- Download the Master.asm code.
+- Open Atmel Studio IDE.
+- Create a new project.
+- Add the Master.asm code to the project.
+- Connect the Arduino Mega board.
+- Build solution.
+- Run on Arduino Mega.
+- Download the Slave.asm code.
+- Create a new project in Atmel Studio IDE.
+- Add the Salve.asm code to the project.
+- Connect the Arduino Uno board.
+- Build solution.
+- Run on Arduino Uno.
+
 
 
 
