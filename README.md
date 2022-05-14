@@ -70,6 +70,21 @@ A project done in AVR Assembly that uses external interrupts, internal interrupt
   </tr>
 </table>
 
+## Additional resources
+
+➕ Arduino Mega 2560
+
+➕ Arduino Uno
+
+➕ Potentiometer
+
+➕ LEDs
+
+➕ Button
+
+➕ Cables to connect the boards.
+
+
 
 
 
