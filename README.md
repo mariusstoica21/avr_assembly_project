@@ -138,7 +138,7 @@ Arduino Mega 2560, as a master, is connected to Arduino Uno, as a slave. The mas
 
 <p align="center">
   <img 
-    src="https://github.com/mariusstoica21/avr_assembly_project/blob/main/Images/i2c1.png"
+    src="https://github.com/mariusstoica21/avr_assembly_project/blob/main/Images/i2c2.png"
   >
 </p>
 
