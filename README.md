@@ -103,23 +103,17 @@ A project done in AVR Assembly that uses external interrupts, internal interrupt
 
 **External interrupt**
 
-A button and three leds are connected to the Arduino Mega 2560 board. The leds represent a three-bit binary number. Each time the button is pressed, the value increments by one. The value is displayed on the leds. 
-
-Value of the three-bit binary numbe is zero, so all leds are off.
+A button and three leds are connected to the Arduino Mega 2560 board. The leds represent a three-bit binary number. Each time the button is pressed, the value increments by one. The value is displayed on the leds. Value of the three-bit binary numbe is zero, so all leds are off. After pressing the button one time, the value increments by one, so the least significant bit is '1' (led is turned on), and others are '0' (leds are turned off).
 
 <p align="center">
   <img 
-    src="https://github.com/mariusstoica21/avr_assembly_project/blob/main/Images/ei_1.JPG"
+    src="https://github.com/mariusstoica21/avr_assembly_project/blob/main/Images/ei3.png"
   >
 </p>
 
-After pressing the button one time, the value increments by one, so the least significant bit is '1' (led is turned on), and others are '0' (leds are turned off).
 
-<p align="center">
-  <img 
-    src="https://github.com/mariusstoica21/avr_assembly_project/blob/main/Images/ei_2.png"
-  >
-</p>
+
+
 
 
 
