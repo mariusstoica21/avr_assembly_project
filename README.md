@@ -34,7 +34,7 @@ A project done in AVR Assembly that uses external interrupts, internal interrupt
 
 ✅ Additional hardware needed
 
-✅ Video available
+✅ [Video available](https://youtu.be/L7FiW5L40N4)
 
 ## Project description
 
