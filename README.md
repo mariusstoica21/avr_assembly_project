@@ -121,8 +121,26 @@ A led is connected to the Arduino Mega 2560 board, and is turned on for one seco
   >
 </p>
 
+**ADC**
+
+A potentiometer and 10 leds are connected to the Arduino Mega board. The board reads the value of the potentiometer, and displays it on the leds. The value that can be read from the potentiometer using ADC can range between 0 (all leds are turned off) and 1023 (all leds are turned on). In the left part of the image, the value read from the potentiometer is 1023.
 
 
+<p align="center">
+  <img 
+    src="https://github.com/mariusstoica21/avr_assembly_project/blob/main/Images/adc1.png"
+  >
+</p>
+
+**I2C** 
+
+Arduino Mega 2560, as a master, is connected to Arduino Uno, as a slave. The master sends to the slave the number of times the button connected to the Arduino Mega has been pressed. The number is read by Arduino Uno and displayed on the leds that are highlighted with a red circle. The connection between the boards is highlighted in white.
+
+<p align="center">
+  <img 
+    src="https://github.com/mariusstoica21/avr_assembly_project/blob/main/Images/i2c1.png"
+  >
+</p>
 
 
 
