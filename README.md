@@ -111,6 +111,16 @@ A button and three leds are connected to the Arduino Mega 2560 board. The leds r
   >
 </p>
 
+**Internal interrupt**: 
+
+A led is connected to the Arduino Mega 2560 board, and is turned on for one second, then turned off for another second, in a loop.
+
+<p align="center">
+  <img 
+    src="https://github.com/mariusstoica21/avr_assembly_project/blob/main/Images/ii1.png"
+  >
+</p>
+
 
 
 
