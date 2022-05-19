@@ -58,7 +58,7 @@ A project done in AVR Assembly that uses external interrupts, internal interrupt
   </tr>
   <tr>
     <td>AVR Assembly</td>
-    <td>Assmebly</td>
+    <td>Assembly</td>
     <td>Utilization of interrupts, ADC and I2C</td>
     <td>Master.asm, Slave.asm</td>
     <td>
